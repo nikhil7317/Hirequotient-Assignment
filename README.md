@@ -1,3 +1,5 @@
+![Screenshot (131)](https://github.com/nikhil7317/Hirequotient-Assignment/assets/79450273/c6c0e73e-6e59-4461-8e08-2473e051fa64)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
